@@ -3,18 +3,18 @@ Implementation of Neural Style Transfer on Video.
 
 ![](https://github.com/feziodoshi/Neural-Artistic-Style-Video-/blob/master/video/neural_style_1.gif)
 
-Contributers : [Fenil Doshi](), [Raghav Gupta](https://github.com/BeasT321), [Rohan Pooniwala](), [Raghav Gupta]()
+Contributers : [Fenil Doshi](https://github.com/feziodoshi), [Raghav Gupta](https://github.com/BeasT321), [Rohan Pooniwala](https://github.com/RohitSaha), [Raghav Gupta](https://github.com/raghavgupta0296)
 
 # Neural Artistic Style Implementation
 
 We mainly used the following research papers to implament Neural Artistic Style
 
 <ul>
-<li>Implementation of Neural Style Transfer from the paper <a href="http://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> in Keras 1.2.0
+<li> Implementation of Neural Style Transfer from the paper <a href="http://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> in Keras 1.2.0
 
-<li>Color Preservation is based on the paper [Preserving Color in Neural Artistic Style Transfer](https://arxiv.org/abs/1606.05897).
+<li> Color Preservation is based on the paper [Preserving Color in Neural Artistic Style Transfer](https://arxiv.org/abs/1606.05897).
 
-<li>Masked Style Transfer is based on the paper [Show, Divide and Neural: Weighted Style Transfer](http://cs231n.stanford.edu/reports2016/208_Report.pdf)
+<li> Masked Style Transfer is based on the paper [Show, Divide and Neural: Weighted Style Transfer](http://cs231n.stanford.edu/reports2016/208_Report.pdf)
 </ul>
 
 And also took help from the repository [Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer/) 
