@@ -31,6 +31,8 @@ There are 3 files:
 # Speed
 On a 1070 Laptop GPU, the time required for each epoch depends on mainly image size (gram matrix size) :
 
-For a 400x400 gram matrix, each epoch takes approximately 7-9 seconds. 
-For a 512x512 gram matrix, each epoch takes approximately - seconds. 
-For a 600x600 gram matrix, each epoch takes approximately - seconds. 
+<ul>
+<li>For a 400x400 gram matrix, each epoch takes approximately 7-9 seconds. 
+<li>For a 512x512 gram matrix, each epoch takes approximately 15-16 seconds. 
+<li>For a 600x600 gram matrix, each epoch takes approximately 23-25 seconds. 
+</ul>
