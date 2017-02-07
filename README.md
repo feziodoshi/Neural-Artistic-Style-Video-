@@ -3,7 +3,7 @@ Implementation of Neural Style Transfer on Video.
 
 ![](https://github.com/feziodoshi/Neural-Artistic-Style-Video-/blob/master/video/neural_style_1.gif)
 
-Contributers : [Fenil Doshi](https://github.com/feziodoshi), [Raghav Gupta](https://github.com/BeasT321), [Rohan Pooniwala](https://github.com/RohitSaha), [Raghav Gupta](https://github.com/raghavgupta0296)
+Contributers : [Fenil Doshi](https://github.com/feziodoshi), [Rohan Pooniwala](https://github.com/rohanpooniwala), [Rohit Saha](https://github.com/RohitSaha), [Raghav Gupta](https://github.com/raghavgupta0296)
 
 # Neural Artistic Style Implementation
 
