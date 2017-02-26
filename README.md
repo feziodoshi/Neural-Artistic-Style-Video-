@@ -7,7 +7,7 @@ Contributers : [Fenil Doshi](https://github.com/feziodoshi), [Rohan Pooniwala](h
 
 # Neural Artistic Style Implementation
 
-We mainly used the following research papers to implament Neural Artistic Style
+We mainly used the following research papers to implement Neural Artistic Style
 
 <ul>
 <li> Implementation of Neural Style Transfer from the paper <a href="http://arxiv.org/abs/1508.06576">A Neural Algorithm of Artistic Style</a> in Keras 1.2.0
