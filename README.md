@@ -19,14 +19,9 @@ We mainly used the following research papers to implement Neural Artistic Style
 
 And also took help from the repository [Neural-Style-Transfer](https://github.com/titu1994/Neural-Style-Transfer/) 
 
-# Guide
+# Compatibility
 
 We are using Keras 1.2.1 with Tensorflow backend Using CUDA on Windows 10. But it should work in Linux with/without CUDA using same keras version.
-
-There are 3 files:
-<ul>
-<li>
-</ul>
 
 # Speed
 On a 1070 Laptop GPU, the time required for each epoch depends on mainly image size (gram matrix size) :
